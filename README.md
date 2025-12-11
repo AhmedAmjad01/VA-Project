@@ -1,27 +1,26 @@
 # ASTRA: Integrated Enterprise Vulnerability Management Ecosystem
 
-[cite_start]**Course:** CY451 - Vulnerability Assessment (Fall 2025) [cite: 1]  
-[cite_start]**Department:** Cyber Security (CYS) - GIK Institute [cite: 2]  
+**Course:** CY451 - Vulnerability Assessment (Fall 2025) [cite: 1]  
+**Department:** Cyber Security (CYS) - GIK Institute [cite: 2]  
 **Project Status:** Final Release (v1.0)
 
 ---
 
 ## 📌 Project Overview
-**ASTRA** is a comprehensive cyber security simulation designed to replicate a real-world corporate infrastructure. [cite_start]It demonstrates the complete **Vulnerability Management Cycle**, transitioning students from theoretical knowledge to active roles as security analysts, Red Team engineers, and Blue Team defenders[cite: 5, 7].
+**ASTRA** is a comprehensive cyber security simulation designed to replicate a real-world corporate infrastructure. It demonstrates the complete **Vulnerability Management Cycle**, transitioning students from theoretical knowledge to active roles as security analysts, Red Team engineers, and Blue Team defenders[cite: 5, 7].
 
 This project architects a multi-layered environment using **Kali Linux** and **Docker**, performs advanced exploitation (SQLi, XSS, Buffer Overflow), implements active defense (Snort IDS, NGFW), and automates risk reporting via a custom GRC dashboard.
 
 ---
 
 ## 👨‍🏫 Instructor Information
-This project was developed under the guidance of **Engr. [cite_start]Muhammad Ahmad Nawaz**, adhering to the standards of industrial vulnerability assessment and SOC operations[cite: 1, 7].
+This project was developed under the guidance of **Engr.Muhammad Ahmad Nawaz**, adhering to the standards of industrial vulnerability assessment and SOC operations.
 
 | **Instructor** | **Contact Details** |
 | :--- | :--- |
-| **Name** | Engr. [cite_start]Muhammad Ahmad Nawaz [cite: 1] |
-| **Office** | [cite_start]S01, NAB, GIK Institute [cite: 2] |
-| **Email** | [cite_start]Engr.ahmad.nawaz@giki.edu.pk [cite: 2] |
-| **Office Hours** | [cite_start]09:30 a.m. – 01:00 p.m. [cite: 2] |
+| **Name** | Engr.Muhammad Ahmad Nawaz |
+| **Office** | S01, NAB, GIK Institute |
+| **Email** | Engr.ahmad.nawaz@giki.edu.pk |
 
 ---
 
