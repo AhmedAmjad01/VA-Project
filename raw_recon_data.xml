@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.95 scan initiated Tue Nov 18 12:24:25 2025 as: /usr/lib/nmap/nmap -&#45;privileged -p- -T4 -sV -O -oX raw_recon_data.xml 10.10.10.10 -->
+<nmaprun scanner="nmap" args="/usr/lib/nmap/nmap -&#45;privileged -p- -T4 -sV -O -oX raw_recon_data.xml 10.10.10.10" start="1763490265" startstr="Tue Nov 18 12:24:25 2025" version="7.95" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="10.10.10.10" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<taskprogress task="SYN Stealth Scan" time="1763490508" percent="22.01" remaining="858" etc="1763491366"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="861" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="861" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="861" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="860" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="860" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.03" remaining="860" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.04" remaining="860" etc="1763491369"/>
+<taskprogress task="SYN Stealth Scan" time="1763490509" percent="22.04" remaining="860" etc="1763491369"/>

@@ -1,0 +1,4 @@
+
+alert tcp any any -> any any (msg:"[CRITICAL] SQL Injection Detected"; content:"OR"; content:"'"; sid:1000001; rev:1;)
+alert tcp any any -> any any (msg:"[CRITICAL] Buffer Overflow Detected"; content:"AAAAAAAAAAAAAAAAAAAAAAAAA"; sid:1000002; rev:1;)
+
