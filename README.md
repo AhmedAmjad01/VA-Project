@@ -28,15 +28,15 @@ This project was developed under the guidance of **Engr. [cite_start]Muhammad Ah
 ## 🚀 Key Features
 ### 🔴 Red Team (Offensive Operations)
 * **Attack Surface Mapping:** Automated recon using Nmap and Nikto[cite: 15].
-* [cite_start]**Web Exploitation:** Proof-of-Concept (PoC) exploits for **SQL Injection** (Authentication Bypass) and **Stored XSS**[cite: 44, 48].
-* [cite_start]**Binary Exploitation:** Custom C-backend service exploited via **Buffer Overflow** (Stack-based memory corruption)[cite: 58].
+* **Web Exploitation:** Proof-of-Concept (PoC) exploits for **SQL Injection** (Authentication Bypass) and **Stored XSS**[cite: 44, 48].
+* **Binary Exploitation:** Custom C-backend service exploited via **Buffer Overflow** (Stack-based memory corruption)[cite: 58].
 
 ### 🔵 Blue Team (Defensive Operations)
 * **Intrusion Detection System (IDS):** **Snort** configured with custom rules to detect attack signatures in real-time[cite: 71].
-* [cite_start]**Active Defense (NGFW):** Custom **Next-Generation Firewall** module that automatically bans IPs attempting exploit payloads[cite: 69, 80].
+* **Active Defense (NGFW):** Custom **Next-Generation Firewall** module that automatically bans IPs attempting exploit payloads[cite: 69, 80].
 
 ### 📊 Management (GRC & Automation)
-* [cite_start]**Risk Heatmap:** Interactive dashboard visualizing node vulnerability status (Critical/High/Medium)[cite: 87].
+* **Risk Heatmap:** Interactive dashboard visualizing node vulnerability status (Critical/High/Medium)[cite: 87].
 * **Compliance Mapping:** Findings mapped to **NIST 800-53** and **ISO 27001** standards[cite: 98].
 
 ---
